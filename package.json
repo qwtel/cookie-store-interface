@@ -1,0 +1,11 @@
+{
+  "name": "cookie-store-interface",
+  "version": "0.0.0",
+  "description": "TypeScript type definitions for WICG Cookie Store API working draft",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "author": "Florian Klampfer <mail@qwtel.com>",
+  "license": "MIT"
+}
