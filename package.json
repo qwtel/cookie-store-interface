@@ -1,6 +1,6 @@
 {
   "name": "cookie-store-interface",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "TypeScript type definitions for WICG Cookie Store API working draft",
   "types": "index.d.ts",
   "scripts": {
