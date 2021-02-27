@@ -7,5 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "author": "Florian Klampfer <mail@qwtel.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qwtel/cookie-store-interface.git"
+  },
+  "bugs": {
+    "url": "https://github.com/qwtel/cookie-store-interface/issues"
+  },
+  "homepage": "https://github.com/qwtel/cookie-store-interface#readme"
 }
